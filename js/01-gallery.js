@@ -33,7 +33,7 @@ const instance = basicLightbox.create(
         },
     }
 );
-
+ 
 function onImgClick(e) { 
   e.preventDefault();
   const datasetSource = e.target.dataset.source;

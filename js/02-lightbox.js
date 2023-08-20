@@ -30,4 +30,4 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionPosition: "bottom",
   download: "Download",
 
-});  
+});   
